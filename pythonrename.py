@@ -1,7 +1,7 @@
 import os
 
 # Set the path to the parent directory containing Odoo folders
-parent_dir = r"C:\ELDRIAN\Tutorial Videos Odoo\\[ FreeCourseWeb.com ] Udemy - Odoo Functional Implementation Guide  Accounting [En]"
+parent_dir = r"C:\ELDRIAN\Tutorial Videos Odoo\\[ TutPig.com ] Udemy - Odoo Tips & Tricks to high efficency - save time\\~Get Your Files Here !"
 for item in os.listdir(parent_dir):
 
     full_path = os.path.join(parent_dir, item)
